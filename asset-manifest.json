@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/antoniocv/static/css/main.127e7047.css",
-    "main.js": "/antoniocv/static/js/main.7540cb40.js",
+    "main.js": "/antoniocv/static/js/main.155d58b3.js",
     "static/js/787.33d9b500.chunk.js": "/antoniocv/static/js/787.33d9b500.chunk.js",
     "index.html": "/antoniocv/index.html",
     "main.127e7047.css.map": "/antoniocv/static/css/main.127e7047.css.map",
-    "main.7540cb40.js.map": "/antoniocv/static/js/main.7540cb40.js.map",
+    "main.155d58b3.js.map": "/antoniocv/static/js/main.155d58b3.js.map",
     "787.33d9b500.chunk.js.map": "/antoniocv/static/js/787.33d9b500.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.127e7047.css",
-    "static/js/main.7540cb40.js"
+    "static/js/main.155d58b3.js"
   ]
 }
